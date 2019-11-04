@@ -1,4 +1,4 @@
-# Hei fra makrdown 
+# Hei fra markdown 
 
 Dette er en readme
 
